@@ -102,15 +102,16 @@ A flower shop management system built using microservices and Domain-Driven Desi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=biancailies&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancailies&theme=dracula" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=biancailies&theme=radical&hide_border=true)
+<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=biancailies&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biancailies&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biancailies&theme=dracula" />
 
 </div>
 
