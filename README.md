@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF79C6&center=true&vCenter=true&width=700&lines=Backend+Developer;Full-Stack+Engineering+Student;Spring+Boot+%7C+React+%7C+Docker;Always+building+something+new+%F0%9F%8C%B8" />
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,13,14,30&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:ffd6eb,30:ffb6d9,60:f78fb3,100:e84393&text=Welcome%20to%20my%20GitHub&fontSize=34&fontColor=ffffff&animation=twinkling" />
 
 </div>
 
