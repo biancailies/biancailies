@@ -5,6 +5,12 @@
 ### 3rd-Year Computer Science Student  
 ### Backend • Full-Stack • DevOps curious • AI-assisted development
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=Backend+Developer;Full-Stack+Engineering+Student;Spring+Boot+%7C+React+%7C+Docker;Always+building+something+cute+and+useful+%F0%9F%8C%B8" />
+
+</div>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF79C6&center=true&vCenter=true&width=700&lines=Backend+Developer;Full-Stack+Engineering+Student;Spring+Boot+%7C+React+%7C+Docker;Always+building+something+new+%F0%9F%8C%B8" />
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,13,14,30&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontSize=34&fontColor=ffffff&animation=fadeIn" />
