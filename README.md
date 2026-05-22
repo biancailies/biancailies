@@ -1,1 +1,144 @@
-# biancailies-biancailies
+<div align="center">
+
+# 🌸 Hi, I'm Bianca 🌸
+
+### 3rd-Year Computer Science Student  
+### Backend • Full-Stack • DevOps curious • AI-assisted development
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,13,14,30&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+---
+
+## 💕 About Me
+
+I’m a 3rd-year Computer Science student at the Technical University of Cluj-Napoca, interested in building practical software systems from backend APIs to full-stack applications.
+
+I enjoy working with Java, Spring Boot, React, Python, FastAPI and Docker, and I’m currently exploring DevOps, cloud infrastructure and AI-assisted development.
+
+I like projects that combine clean architecture, real-world use cases and technologies that help applications become easier to run, test and maintain.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f78fb3?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ffb6c1?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-db7093?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff9ff3?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-e84393?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-f368e0?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-ff69b4?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-f78fb3?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-ffb6c1?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-db7093?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ff9ff3?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e84393?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-f368e0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ff69b4?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f78fb3?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ffb6c1?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🌷 Featured Projects
+
+### 🛒 BioBuy — Full-Stack Marketplace Platform
+A full-stack marketplace platform that connects local producers with consumers.
+
+**Tech:** Java, Spring Boot, PostgreSQL, React, REST APIs  
+**Highlights:**
+- JWT authentication and role-based access control
+- Product search and filtering
+- Map-based product discovery
+- REST API backend architecture
+- Frontend-backend integration
+
+---
+
+### 🌍 EasyTravel — Mobile Hiking Application
+A mobile application for discovering and unlocking hiking trails.
+
+**Tech:** React Native, TypeScript, Firebase  
+**Highlights:**
+- Interactive map navigation
+- Firebase authentication
+- Real-time chat
+- Role-based features for guides and users
+- Premium route unlocking workflow
+
+---
+
+### 🐱 CatPhish — AI Cybersecurity Assistant
+An AI-powered phishing detection assistant built as a Chrome extension with a FastAPI backend.
+
+**Tech:** Python, FastAPI, Machine Learning, Chrome Extension  
+**Highlights:**
+- Real-time URL analysis
+- Rule-based and ML-based phishing detection
+- Scam message detection
+- User-friendly risk explanations
+- Hackathon team project
+
+---
+
+### 🌸 BloomChain — Flower Shop Microservices Platform
+A flower shop management system built using microservices and Domain-Driven Design.
+
+**Tech:** Java, Spring Boot, React, MySQL, Docker  
+**Highlights:**
+- Multiple independent microservices
+- REST communication between services
+- Docker and Docker Compose support
+- MySQL database initialization
+- API Gateway and frontend integration
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=biancailies&show_icons=true&theme=dracula&hide_border=true&title_color=ff79c6&icon_color=ff79c6" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancailies&layout=compact&theme=dracula&hide_border=true&title_color=ff79c6" />
+
+</div>
+
+---
+
+## 🌸 Currently Learning
+
+- DevOps fundamentals
+- Docker and containerized applications
+- CI/CD pipelines
+- Cloud infrastructure basics
+- AI-assisted development workflows
+- Scalable backend systems
+
+---
+
+## 💌 Let’s Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bianca-ilies-912149399)
+[![GitHub](https://img.shields.io/badge/GitHub-db7093?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biancailies)
+[![Email](https://img.shields.io/badge/Email-f78fb3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biailies10@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Building backend systems, full-stack apps and cute but useful projects ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,30&height=100&section=footer" />
+
+</div>
