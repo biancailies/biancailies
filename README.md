@@ -48,7 +48,7 @@ I like projects that combine clean architecture, real-world use cases and techno
 
 ---
 
-## 🌷 Featured Projects
+## 🌷 Personal Projects
 
 ### 🛒 BioBuy — Full-Stack Marketplace Platform
 A full-stack marketplace platform that connects local producers with consumers.
