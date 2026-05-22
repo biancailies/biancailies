@@ -106,9 +106,9 @@ A flower shop management system built using microservices and Domain-Driven Desi
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=biancailies&show_icons=true&theme=dracula&hide_border=true&title_color=ff79c6&icon_color=ff79c6" />
+<img src="https://github-readme-stats.vercel.app/api?username=biancailies&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancailies&layout=compact&theme=dracula&hide_border=true&title_color=ff79c6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancailies&layout=compact&theme=radical&hide_border=true" height="170"/>
 
 </div>
 
